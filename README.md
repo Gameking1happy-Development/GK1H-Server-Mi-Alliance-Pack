@@ -9,7 +9,7 @@ To update, replace the old mods folder with the new one, then, find the folders/
 ## NOTICE!
 **DO NOT UPDATE MODS USING THE MODRINTH UPDATE FEATURE, IT COULD BREAK OR PREVENT YOU FROM PLAYING ON THE SERVER!!!**
 # Links
-[Discord](https://discord.gg/AwJvGzH)
+[Discord](https://discord.gg/AwJvGzH)  
 (Links to modpack on other sites are in client and server folders, as they have separate links.)
 # Server Join Details.txt Content
 Your server IP is
