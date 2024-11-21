@@ -1,6 +1,0 @@
-[submodule "GK1H-Server-Mi-Alliance-Pack-Server"]
-	path = Server/GK1H-Server-Mi-Alliance-Pack-Server
-	url = https://github.com/Gameking1happy/GK1H-Server-Mi-Alliance-Pack-Server
-[submodule "GK1H-Server-Mi-Alliance-Pack-Client"]
-	path = Client/GK1H-Server-Mi-Alliance-Pack-Client
-	url = https://github.com/Gameking1happy/GK1H-Server-Mi-Alliance-Pack-Client
