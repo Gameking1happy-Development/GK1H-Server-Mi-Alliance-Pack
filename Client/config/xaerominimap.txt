@@ -97,7 +97,7 @@ manualCaveModeStart:-1
 chunkGridLineWidth:1
 temporaryWaypointsGlobal:true
 keepUnlockedWhenEnlarged:false
-enlargedMinimapAToggle:false
+enlargedMinimapAToggle:true
 displayStainedGlass:true
 waypointOnMapScale:0
 switchToAutoOnDeath:true
