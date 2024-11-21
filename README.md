@@ -8,6 +8,9 @@ Use the Modrinth profile, or, if you want to use a different launcher, download 
 To update, replace the old mods folder with the new one, then, find the folders/files that are in the new config, and replace the ones that are in the old config with those. Removing other config files will possibly delete mod settings, but the mods will create needed config files on launch, so you can if you are fine with resetting your settings to default, or if they currently are default.
 ## NOTICE!
 **DO NOT UPDATE MODS USING THE MODRINTH UPDATE FEATURE, IT COULD BREAK OR PREVENT YOU FROM PLAYING ON THE SERVER!!!**
+# Links
+[Discord](https://discord.gg/AwJvGzH)
+(Links to modpack on other sites are in client and server folders, as they have separate links.)
 # Server Join Details.txt Content
 Your server IP is
 gkhmialliance.falixsrv.me
