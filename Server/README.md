@@ -1,0 +1,2 @@
+[Server pack on Modrinth.](https://modrinth.com/modpack/gk1h-server-mi-alliance-pack-server/) (Private due to mods from CurseForge not publishable on third-party sites currently.)  
+[Server pack on CurseForge.](https://curseforge.com/minecraft/modpacks/gk1h-server-mi-alliance-pack-server/files/5926539/)
