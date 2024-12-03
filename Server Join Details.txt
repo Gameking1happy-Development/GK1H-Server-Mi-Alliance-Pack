@@ -1,8 +1,0 @@
-Your server IP is
-gkhmialliance.falixsrv.me
-
-Your server with port is
-gkhmialliance.falixsrv.me:45681
-
-Doesn't work? Use Dynamic IP
-eu5-free.falixserver.net:45681
