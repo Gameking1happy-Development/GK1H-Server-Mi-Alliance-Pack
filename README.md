@@ -1,5 +1,5 @@
 # Details
-Modpack for server, includes client, (config and mods files in a .zip, and Modrinth profile) server, (config and mods files in a .zip, and Modrinth profile), txt file with information to join the server, and some more stuff.
+Modpack for server, includes client, (config and mods files in a .zip, and Modrinth profile) server, (config and mods files in a .zip, and Modrinth profile), and some more stuff.
 # Note About Server Pack
 The server pack does not have default settings, and just simply is not at all recommended for use as a client.
 # First Install
@@ -22,11 +22,30 @@ Replace the old mods folder with the new one, then, find the folders/files that 
 [Discord](https://discord.gg/AwJvGzH)  
 (Links to modpack on other sites are in the readme.md files in the client and server folders, as they have separate links.)
 # Server Join Details.txt Content
-Your server IP is  
+## Main
+Your Server IP is:  
 gkhmialliance.falixsrv.me  
 
-Your server with port is  
+Your Server with Port is:  
 gkhmialliance.falixsrv.me:45681  
 
-Doesn't work? Use Dynamic IP  
+Doesn't Work? Use Dynamic IP:  
 eu5-free.falixserver.net:45681  
+## Beta
+Your Server IP is:  
+gkhmialliancebeta.falixsrv.me  
+
+Your Server with Port is:  
+gkhmialliancebeta.falixsrv.me:43875  
+
+Doesn't Work? Use Dynamic IP:  
+eu4-free.falixserver.net:43875  
+## Alpha (WHITELISTED!!!)
+Your Server IP is:  
+gkhmialliancealpha.falixsrv.me  
+
+Your Server with Port is:  
+gkhmialliancealpha.falixsrv.me:29317  
+
+Doesn't Work? Use Dynamic IP:  
+eu4-free.falixserver.net:29317  
