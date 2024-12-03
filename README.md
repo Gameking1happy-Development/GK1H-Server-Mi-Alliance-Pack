@@ -1,6 +1,6 @@
 # Details
 Modpack for server, includes client, (config and mods files in a .zip, and Modrinth profile) server, (config and mods files in a .zip, and Modrinth profile), and some more stuff.
-# Note About Server Pack
+# Note About Server Pack 
 The server pack does not have default settings, and just simply is not at all recommended for use as a client.
 # First Install
 ## Modrinth
