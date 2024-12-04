@@ -102,3 +102,5 @@ Just Enough Effect Descriptions (JEED) ([Modrinth](https://modrinth.com/mod/just
 Overflowing Bars ([Modrinth](https://modrinth.com/mod/overflowing-bars)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars)) by Fuzs ([Modrinth](https://modrinth.com/user/Fuzs)/[CurseForge](https://www.curseforge.com/members/fuzs))  
 Pick Up Notifier ([Modrinth](https://modrinth.com/mod/pick-up-notifier)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier)) Fuzs ([Modrinth](https://modrinth.com/user/Fuzs)/[CurseForge](https://www.curseforge.com/members/fuzs))  
 Leave My Bars Alone ([Modrinth](https://modrinth.com/mod/leave-my-bars-alone)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/leave-my-bars-alone)) by Fuzs ([Modrinth](https://modrinth.com/user/Fuzs)/[CurseForge](https://www.curseforge.com/members/fuzs))  
+# Server Only
+Dynmap® ([Modrinth](https://modrinth.com/plugin/dynmap)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynmapforge)) by mikeprimm ([Modrinth](https://modrinth.com/user/mikeprimm)/[CurseForge](https://www.curseforge.com/members/mikeprimm))  
